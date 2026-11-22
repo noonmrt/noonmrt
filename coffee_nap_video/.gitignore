@@ -1,0 +1,6 @@
+build/
+audio/scene_*.mp3
+audio/scene_*.wav
+audio/master_audio.wav
+__pycache__/
+*.pyc
